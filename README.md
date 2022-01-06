@@ -1,4 +1,2 @@
-#Example Repository
-This is a sample repo, hello world!
-
-This is a second change.
+Hello!
+This is a cool animation trick of CSS TEXT POTRAIT EFFECTS
